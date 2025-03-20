@@ -14,7 +14,7 @@ To complete the lab, you will need:
 
 In this workshop we will be working with Azure AI Foundry. First, deploy the necessary resources by following the steps below:
 
-1. Click the deploy to Azure button to deploy your resources: [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fmicrosoft%2Faitour-interact-with-llms%2Fmain%2Flab%2FWorkshop%20Instructions%2Fassets%2FAITour24_WKR540_Template.json)
+1. Click the deploy to Azure button to deploy your resources: [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fmicrosoft%2Faitour-interact-with-llms%2Fmvp-summit%2Flab%2FWorkshop%20Instructions%2Fassets%2FAITour24_WKR540_Template.json)
 
 2. In the newly opened tab, sign in to your Azure account.
 
