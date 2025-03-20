@@ -20,7 +20,7 @@ In this workshop we will be working with Azure AI Foundry. First, deploy the nec
 
 3. Once signed in, you will be redirected to create resources based on the custom template. Create a new resource group and name it **interact-with-llms**. 
 
-4. Next in the **Unique Suffix** field, add any unique four letters. Once done, click **Review and Create** button to create your resources
+4. Next in the **Unique Suffix** field, add any unique four letters or number combination. Once done, click **Review and Create** button to create your resources
 
 > [!NOTE]
 > Deployment of the resources will take ~2-3 minutes to complete.
@@ -28,14 +28,13 @@ In this workshop we will be working with Azure AI Foundry. First, deploy the nec
 5. In this workshop, we will be working in Azure AI Foundry, focusing particularly on the playground feature. Once your deployment is complete, in your browser, navigate to Azure AI Foundry by visiting the link [https://ai.azure.com](https://ai.azure.com?WT.mc_id=aiml-132569-bethanycheum)
 
 
+
 ## Navigating Azure AI Foundry
 
-![Azure AI Foundry logged in homepage](./Images/ai-Foundry-login-homepage.png)
 
-1. To begin, navigate to the left-hand sidebar where you will find the **Management** section. Under this section, select **All Resources.** This action will lead you to a centralized area where all available resources and tools are displayed, giving you an overview of your current hub connections.
+1. To begin, click **Sign In** to log into your Azure account.
 
-> [!NOTE]
-> In case you can't find the **all Resources** section, click on the **all hubs** section.
+![Azure AI Foundry homepage](./Images/aifoundry-homepage.jpeg)
 
 2. Locate the **Workshop AI Hub** in the list of available hubs. **Click on the project** with the hub to access its settings and resources.
 
@@ -110,10 +109,12 @@ Navigate back to Playgrounds, then select the **Real-time audio playground** and
 
 ![Image of Azure AI Foundry Playground Real time audio mode](./Images/aifoundry-real-time-audio.jpeg)
 
+>[!NOTE] The real-time audio playground works with models such as gpt-4o-realtime, for which separate access is needed. You can check your subscription quotas on the main hub page for access to this model.
+
 1. **Deployment**: This section allows us to change between our deployed models.
 1. **Server turn detection**: Determines if the server should utilize voice activity detection (VAD) to identify when a user has finished speaking.
 1. **System Message Box**: Here is where we enter instructions for the model, previous to the user interaction.
-1. **Choose a voice**: gpt-4o-realtime offers a variety of voices to choose from with unique accents or tonal capabilities tailored to your liking.
+1. **Choose a voice**: Models such as gpt-4o-realtime offers a variety of voices to choose from with unique accents or tonal capabilities tailored to your liking.
 1. **Server turn detection**: additional parameters to help optimize the model's efficiency and performance by improving voice activity detection.
 1. **Parameters**: This tab contains the models detailed settings, such as temperature and max response.
 1. **Prompt Button**: Similar to the chat playground's box, this is where the models get their input from the user. 

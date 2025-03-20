@@ -1,12 +1,10 @@
 # Part 3 - Multimodal
 
-Until now, we have interacted with LLMs using a single modality: inputting text and receiving either text or images. However, multimodal interfaces are becoming increasingly popular because they allow users to interact with models using multiple modalities, such as text, images, and speech, thereby improving human-computer interactions. In this section, we will explore how to use multimodal interfaces to interact with **GPT-4o mini** and **GPT-4o audio**.
+Until now, we have interacted with LLMs using a single modality: inputting text and receiving either text or images. However, multimodal interfaces are becoming increasingly popular because they allow users to interact with models using multiple modalities, such as text, and images, thereby improving human-computer interactions. In this section, we will explore how to use multimodal interfaces to interact with **GPT-4o mini**.
 
 
 > [!TIP]
 > **GPT-4o mini** is a multimodal model that incorporates both natural language processing and visual understanding. It is able to process as input a combination of text and images, and generate an output which is relevant to both modalities.
-
-**GPT-4o realtime** supports low-latency, "speech-in, speech-out" conversational interactions. It is a great fit for use cases involving live interactions between a user and a model, such as customer support agents, voice assistants, and real-time translators.
 
 ## Best Practices
 
@@ -65,25 +63,6 @@ For this next demo, we have an obstructed image. Bounding boxes were purposefull
 
 > Upon revealing the entire image, we see that gpt-4o-mini was correct—it is indeed a shopping list. It accurately identifies items like 'mayo' and 'organic bread.' Even more intriguing is its interpretation of the note at the bottom. It captures the subtle context, stating, 'The note on the beer item suggests a reminder or an emphasis on moderation or limiting the quantity.
 
-## Real time-audio interactions
-
-By integrating the **gpt-4o-realtime-preview** model, users can interact with the platform using voice commands, making the shopping experience more engaging and accessible.
-
-1. Navigate back to **Playgrounds** and select **try Real-time audio playground** and set the deployment to **gpt-4o-realtime-preview**
-
-2. Update the **model instructions box** with the following:
-
-    ```You are a pirate, and every response must be full of pirate lingo. ```
-
-3. In the playground, click **enable microphone,** a pop up will appear, click allow to enable interactions with audio.
-
-![enable audio in AI Foundry](./Images/aifoundry-enable-audio.jpeg)
-
-4. Interact with the model by clicking on the **start listening** button, saying ``hello`` and ask the model a few facts.
-
-5. Next, change the tone with the system message as follows and interact with the model again: 
-
-```You are a valiant medieval knight. Every response should echo the chivalry, honor, and grandeur of the court. Speak with formality and grace, as if addressing kings, queens, and noble warriors.```
 
 ## Next Steps
 
