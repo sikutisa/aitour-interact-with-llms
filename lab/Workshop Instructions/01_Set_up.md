@@ -30,7 +30,7 @@ In this workshop we will be working with Azure AI Foundry. First, deploy the nec
 
 ## Navigating Azure AI Foundry
 
-![Azure AI Foundry logged in homepage](./Images/ai-Foundry-login-homepage.png)
+![Azure AI Foundry logged in homepage](./Images/ai-Foundry-homepage.png)
 
 1. To begin, navigate to the left-hand sidebar where you will find the **Management** section. Under this section, select **All Resources.** This action will lead you to a centralized area where all available resources and tools are displayed, giving you an overview of your current hub connections.
 

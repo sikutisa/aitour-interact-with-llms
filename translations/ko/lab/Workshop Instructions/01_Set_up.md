@@ -29,7 +29,7 @@
 
 ## Azure AI Foundry 탐색하기
 
-![Azure AI Foundry 로그인 후 홈 화면](../../../../lab/Workshop Instructions/Images/ai-Foundry-login-homepage.png)
+![Azure AI Foundry 로그인 후 홈 화면](../../../../lab/Workshop Instructions/Images/ai-Foundry-homepage.png)
 
 1. 먼저, 왼쪽 사이드바에서 **Management** 섹션을 찾으세요. 이 섹션 아래에서 **All Resources**를 선택하세요. 이 작업을 통해 사용 가능한 모든 리소스와 도구가 표시되는 중앙화된 영역으로 이동하여 현재 허브 연결 상태를 한눈에 볼 수 있습니다.
 
