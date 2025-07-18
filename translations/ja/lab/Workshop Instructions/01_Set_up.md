@@ -29,7 +29,7 @@
 
 ## Azure AI Foundryのナビゲート
 
-![Azure AI Foundry ログイン後のホームページ](../../../../lab/Workshop Instructions/Images/ai-Foundry-homepage.png)
+![Azure AI Foundry ログイン後のホームページ](../../../../lab/Workshop Instructions/Images/ai-foundry-homepage.png)
 
 1. まず、左サイドバーの**Management**セクションに移動します。このセクションの下にある**All Resources**を選択します。この操作で、利用可能なすべてのリソースとツールが表示される集中管理エリアに移動し、現在のハブ接続の概要を確認できます。
 
