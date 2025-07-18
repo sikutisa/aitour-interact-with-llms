@@ -116,11 +116,11 @@
                 }
               },
               {
-                "name": "gpt-4o-realtime-preview",
+                "name": "gpt-4o-mini-realtime-preview",
                 "model": {
                   "format": "OpenAI",
-                  "name": "gpt-4o-realtime-preview",
-                  "version": "2024-10-01"
+                  "name": "gpt-4o-mini-realtime-preview",
+                  "version": "2024-12-17"
                 },
                 "sku": {
                   "name": "GlobalStandard",
