@@ -29,7 +29,7 @@
 
 ## 浏览 Azure AI Foundry
 
-![Azure AI Foundry 登录首页](../../../../lab/Workshop Instructions/Images/ai-Foundry-login-homepage.png)
+![Azure AI Foundry 登录首页](../../../../lab/Workshop Instructions/Images/ai-foundry-homepage.png)
 
 1. 首先，导航到左侧边栏，找到 **Management** 部分。在该部分下，选择 **All Resources**。此操作将带您进入一个集中区域，显示所有可用资源和工具，提供当前中心连接的概览。
 

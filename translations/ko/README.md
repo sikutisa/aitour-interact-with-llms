@@ -46,8 +46,8 @@ Azure AI Foundry에서 Azure OpenAI의 GPT-4o 멀티모달 모델을 활용하�
 
 워크숍의 단계별 지침은 아래에서 확인할 수 있습니다:
 
-- [Skillable 워크숍 지침](https://github.com/microsoft/aitour-interact-with-llms/blob/main/lab/Skillable%20Workshop%20Instructions/00_Introduction.md)
-- [Azure에 직접 배포하는 경우의 워크숍 지침](https://github.com/microsoft/aitour-interact-with-llms/blob/main/lab/Workshop%20Instructions/00_Introduction.md) - 현장 학습용
+- [Skillable 워크숍 지침](https://github.com/microsoft/aitour-interact-with-llms/blob/main/translations/ko/lab/Skillable%20Workshop%20Instructions/00_Introduction.md)
+- [Azure에 직접 배포하는 경우의 워크숍 지침](https://github.com/microsoft/aitour-interact-with-llms/blob/main/translations/ko/lab/Workshop%20Instructions/00_Introduction.md) - 현장 학습용
 
 ## 추가 자료 및 지속적인 학습
 

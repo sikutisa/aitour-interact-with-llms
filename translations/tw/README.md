@@ -46,8 +46,8 @@
 
 詳細的工作坊步驟指導如下：
 
-- [Skillable 工作坊指導](https://github.com/microsoft/aitour-interact-with-llms/blob/main/lab/Skillable%20Workshop%20Instructions/00_Introduction.md)
-- [直接在 Azure 上部署的工作坊指導](https://github.com/microsoft/aitour-interact-with-llms/blob/main/lab/Workshop%20Instructions/00_Introduction.md) - 適用於現場站點
+- [Skillable 工作坊指導](https://github.com/microsoft/aitour-interact-with-llms/blob/main/translations/tw/lab/Skillable%20Workshop%20Instructions/00_Introduction.md)
+- [直接在 Azure 上部署的工作坊指導](https://github.com/microsoft/aitour-interact-with-llms/blob/main/translations/tw/lab/Workshop%20Instructions/00_Introduction.md) - 適用於現場站點
 
 ## 附加資源與持續學習
 
