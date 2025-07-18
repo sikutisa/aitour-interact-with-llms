@@ -46,8 +46,8 @@ Azure OpenAI の GPT-4o マルチモーダルモデルを活用し、Azure AI Fo
 
 ワークショップのステップバイステップの手順は以下から参照できます：
 
-- [Skillable ワークショップ手順](https://github.com/microsoft/aitour-interact-with-llms/blob/main/lab/Skillable%20Workshop%20Instructions/00_Introduction.md)
-- [Azure に直接デプロイする場合のワークショップ手順](https://github.com/microsoft/aitour-interact-with-llms/blob/main/lab/Workshop%20Instructions/00_Introduction.md) - フィールドストップ向け
+- [Skillable ワークショップ手順](https://github.com/microsoft/aitour-interact-with-llms/blob/main/translations/ja/lab/Skillable%20Workshop%20Instructions/00_Introduction.md)
+- [Azure に直接デプロイする場合のワークショップ手順](https://github.com/microsoft/aitour-interact-with-llms/blob/main/translations/ja/lab/Workshop%20Instructions/00_Introduction.md) - フィールドストップ向け
 
 ## 追加リソースと継続学習
 
